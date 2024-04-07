@@ -1,0 +1,23 @@
+/******************************************************************************
+
+Welcome to GDB Online.
+  GDB online is an online compiler and debugger tool for C, C++, Python, PHP, Ruby, 
+  C#, OCaml, VB, Perl, Swift, Prolog, Javascript, Pascal, COBOL, HTML, CSS, JS
+  Code, Compile, Run and Debug online from anywhere in world.
+
+*******************************************************************************/
+#include <stdio.h>
+
+int main()
+{
+    float x = 8.5;
+    float y = 9.9;
+    
+
+    printf("CALCULO DE MEDIA\nvalor da média é: %f ", (x+y)/2);
+    
+        
+    
+
+
+}
